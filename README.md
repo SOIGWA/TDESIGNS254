@@ -130,9 +130,7 @@ Create these collections in Firestore:
 ### 4. Local Development
 
 1. Open the project folder
-2. Use a local server (required for Firebase):
-   - Using Python: `python -m http.server 8000`
-   - Using Node.js: `npx serve`
+2. Use a local server :
    - Using VS Code: Install "Live Server" extension
 
 3. Open browser to `http://localhost:8000`
@@ -232,19 +230,16 @@ Edit `styles.css` variables:
 - Add sample products in Firestore
 - Or use the sample products in shop.js
 
-### Admin can't login
-- Check password in admin.js (default: tdesigns2024)
-- Clear browser cache
 
 ## 📞 Support
 
 For questions about this project:
 - Instagram: @tdesigns254
-- Email: tdesigns254@gmail.com
+- Email: Thatchic29@gmail.com
 
 ## 📄 License
 
-This project is created for educational purposes (IB Computer Science IA).
+This project is created for educational purposes (
 
 ---
 
